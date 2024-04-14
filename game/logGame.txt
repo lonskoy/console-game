@@ -1,0 +1,1 @@
+{wins: false}, {wins: true}, {wins: false}, {wins: true}, {wins: true}, {wins: true}, {wins: true}, {wins: false}, {wins: true}, {wins: true}, {wins: false}, {wins: true}, 
